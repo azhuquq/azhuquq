@@ -22,7 +22,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white) (主要是写[ThinkPHP](https://www.thinkphp.cn/)啦)
 
-![Golang](https://img.shields.io/badge/golang-00ADD8?&style=flat-square&logo=go&logoColor=white) (仍在摸索中qwq)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?&style=flat-square&logo=go&logoColor=white) (仍在摸索中qwq)
 
 ![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=white) (但是依赖难装诶)
 
