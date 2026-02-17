@@ -4,7 +4,7 @@
 
 03年出生 常驻珠海
 
-是男孩子 内心是猫猫🐱w
+生理男 内心是猫猫🐱w
 
 偶尔会穿小裙子刷新在澳门🇲🇴
 
@@ -20,9 +20,13 @@
 
 ### Backend
 
-个人认为好写度
+![PHP](https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white) (主要是写[ThinkPHP](https://www.thinkphp.cn/)啦)
 
-![PHP](https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white) (主要是写[ThinkPHP](https://www.thinkphp.cn/)啦) > ![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=white) (但是依赖难装诶) > ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-00ADD8?&style=flat-square&logo=go&logoColor=white) (仍在摸索中qwq)
+
+![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=white) (但是依赖难装诶)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) (第一次写项目就是[Express](https://expressjs.com/)写的后端)
 
 然后还会一些奇淫技巧（？
 
